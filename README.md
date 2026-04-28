@@ -2,6 +2,16 @@
 
 <img width="2526" height="1135" alt="image" src="https://github.com/user-attachments/assets/a1bba3ac-e2e0-4abb-8dd3-5c6de79c645f" />
 
+<img width="2554" height="1151" alt="image" src="https://github.com/user-attachments/assets/18f6a926-e024-4e73-bed5-2c633fa56032" />
+
+<img width="2530" height="1155" alt="image" src="https://github.com/user-attachments/assets/6ce32f80-4d67-4068-a6a6-ebebeae649a6" />
+
+<img width="2559" height="1140" alt="image" src="https://github.com/user-attachments/assets/0a023025-014d-475c-bcad-8fea2f6e783a" />
+
+<img width="2493" height="1092" alt="image" src="https://github.com/user-attachments/assets/586b9a8b-54c7-4f95-a15b-0ed667e260af" />
+
+<img width="2543" height="1126" alt="image" src="https://github.com/user-attachments/assets/de3d3df1-58d9-42fe-a1eb-f828909f4837" />
+
 
 # AIOT_D7: Linear Regression CRISP-DM Demo
 
