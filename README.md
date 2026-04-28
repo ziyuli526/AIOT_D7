@@ -1,3 +1,8 @@
+網站連結 : http://localhost:8501/
+
+<img width="2526" height="1135" alt="image" src="https://github.com/user-attachments/assets/a1bba3ac-e2e0-4abb-8dd3-5c6de79c645f" />
+
+
 # AIOT_D7: Linear Regression CRISP-DM Demo
 
 This project is a Streamlit-based web application that demonstrates the complete **CRISP-DM** (Cross-Industry Standard Process for Data Mining) workflow for a Linear Regression model.
